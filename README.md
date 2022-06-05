@@ -16,6 +16,7 @@ sensors on the fish tank and can make considerable changes through the applicati
 details and display the required information on the display.
 
 
+
 Technology 
 
 • The language we use to create the smart aquarium mobile application is Java language. 
