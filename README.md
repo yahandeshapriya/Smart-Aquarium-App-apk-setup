@@ -18,7 +18,7 @@ details and display the required information on the display.
 
 
 
-Technology 
+Technologies
 
 • The language we use to create the smart aquarium mobile application is Java language. 
 
